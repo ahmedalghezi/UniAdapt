@@ -21,7 +21,6 @@ import java.util.regex.PatternSyntaxException;
 
 
 public class MainUinAdapt {
-
     private static final int BASE_PREDICATE_CODE = 1000000000;
     private static Transporter transporter;
     private VertexGraphIndex graph = new VertexGraphIndex("graph");
